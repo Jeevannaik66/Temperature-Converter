@@ -28,3 +28,5 @@ The Temperature Converter is a user-friendly tool that simplifies the process of
 
 ## Screenshot
 
+![Screenshot_12-4-2024_104815_127 0 0 1](https://github.com/Jeevannaik66/Temperature-Converter/assets/117274229/f08e4a53-cd1e-41c0-84b7-737affaebb93)
+![Screenshot_12-4-2024_104753_127 0 0 1](https://github.com/Jeevannaik66/Temperature-Converter/assets/117274229/b680c4d2-8dcf-4e30-8c22-f439acf17d3c)
